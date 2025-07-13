@@ -21,4 +21,6 @@ This project simulates the behavior of **polyethylene (PE)** and **polystyrene (
 - Radius of gyration & MSD tracking
 - LAMMPS-style dump output
 
+> ⚠️ *Note: This simulation was developed primarily for educational purposes and conceptual understanding. For high-accuracy and large-scale molecular dynamics, established tools like **LAMMPS** or **GROMACS** are significantly more robust and effective.*
+
 ---
